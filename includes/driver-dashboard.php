@@ -1,1 +1,3 @@
-<content_of_driver-dashboard.php>
+<?php
+// driver-dashboard.php content here
+?>

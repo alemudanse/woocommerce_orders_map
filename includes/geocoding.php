@@ -1,1 +1,3 @@
-<content_of_geocoding.php>
+<?php
+// geocoding.php content here
+?>

@@ -1,1 +1,1 @@
-<content_of_admin-map.js>
+// admin-map.js content here

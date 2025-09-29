@@ -1,1 +1,3 @@
-<content_of_notifications.php>
+<?php
+// notifications.php content here
+?>
