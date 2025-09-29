@@ -1,3 +1,11 @@
 <?php
-// notifications.php content here
-?>
+/**
+ * Notifications (email/SMS hooks).
+ *
+ * @package WooCommerce_Orders_Map
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+// Add notification logic here.
